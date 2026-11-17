@@ -1,0 +1,27 @@
+PYTHON TOOLKIT PLAN
+
+TOOLS
+1. Number Guessing Game: The computer chooses a number from 1 to 10 and gives higher-or-lower hints until the player guesses it or returns to the menu.
+   Concepts: loop, random number, conditionals, input validation, f-strings.
+2. To-Do List: The user can view, add, and remove tasks in a list that stays available while the program runs.
+   Concepts: changing list, loop, conditionals, enumerate, input validation, f-strings.
+3. Simple Calculator: The user enters two numbers and chooses addition, subtraction, multiplication, or division.
+   Concepts: conditionals, arithmetic, input validation, f-strings.
+
+EXACT MAIN MENU TEXT
+=== PYTHON TOOLKIT ===
+1. Number Guessing Game
+2. To-Do List
+3. Simple Calculator
+4. Quit
+Choose an option (1-4):
+
+EXACT TO-DO MENU TEXT
+--- To-Do List ---
+1. View tasks
+2. Add a task
+3. Remove a task
+4. Back to the main menu
+Choose an option (1-4):
+
+The program welcomes the user before the first menu and thanks them after they choose Quit.
